@@ -1,0 +1,170 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-family: Montserrat, Arial, Helvetica;
+}
+
+h1{
+	font-size: 70px;
+	text-align: center;
+}
+
+h2{
+	font-size: 45px;
+	text-align: center;
+	color: #283a50;
+}
+
+h3{
+	font-size: 30px;
+}
+
+h4{
+	font-size: 24px;
+	text-align: center;
+}
+
+.nav-left-elements{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.nav-elements{
+	display: inline-block;
+}
+
+.nav-left-block{
+	float: right;
+	padding-top: 10px;
+}
+
+.container-nav{
+	background-color: #2b3e4f;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-left: 120px;
+	padding-right: 120px;
+}
+
+.container-subnav{
+	background-color: #00bd9d;
+}
+
+.container-worker{
+	padding-top: 120px;
+	padding-bottom: 45px;
+	text-align: center;
+}
+
+.container-subtitle{
+	padding-bottom: 90px;
+}
+
+.container-portfolio{
+	background-color: white;
+	padding-bottom: 90px;
+}
+
+.container-portfolio-title{
+	padding-top: 90px;
+	padding-bottom: 30px;
+}
+
+.container-contact-title{
+	padding-top: 90px;
+	padding-bottom: 30px;
+}
+
+.container-about{
+	background-color: #00bd9d;
+}
+
+.container-about-title{
+	padding-top: 90px;
+	padding-bottom: 30px;
+}
+
+.portfolio-element{
+	display: inline-block;
+	padding: 10px;
+
+}
+
+.container-portfolio-block{
+	text-align: center;
+}
+
+.white-title{
+	color: white;
+}
+
+.container-about-text{
+	display: inline-block;
+	text-align: center;
+	padding-bottom: 100px;
+}
+
+.about-text-box{
+	font-weight: normal;
+	text-align: justify;
+	line-height: 25px;
+	display: inline-block;
+	width: 30%;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.button-form-contact{
+	border: 0;
+	border-radius: 5px;
+	font-size: 18px;
+	background-color: #03bc9d;
+	height: 50px;
+	width: 100px;
+}
+
+.input-form{
+	width: 780px;
+	height: 85px;
+	border: 0;
+	border-top: 1px solid #e0e0e0;
+	font-size: 20px;
+	color: #b8bfc5;
+
+}
+
+.container-form{
+	text-align: center;
+	padding-bottom: 100px;
+
+}
+
+.container-footer{
+	background-color: #2b3e4f;
+	padding-top: 40px;
+}
+
+.copyright-container{
+	text-align: center;
+	background-color: #213140;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.copyright-text{
+	margin-top: 30px;
+}
+
+.social-icons{
+	display: inline-block;
+	padding: 5px;
+}
+
+.container-social-icons{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
