@@ -159,8 +159,16 @@ h4{
 }
 
 .social-icons{
+	font-size: 25px;
+	text-align: center;
 	display: inline-block;
-	padding: 5px;
+	padding: 10px;
+	margin: 10px;
+	border: 2px white solid;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	line-height: 50px;
 }
 
 .container-social-icons{

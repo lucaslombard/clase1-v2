@@ -1,0 +1,12 @@
+
+@media (min-width: 1131px){
+.container-portfolio-block{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	
+
+}
+
+}
+
