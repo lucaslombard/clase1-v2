@@ -1,0 +1,26 @@
+@media (min-width: 800px) and (max-width: 1400px) {
+  .nav-left-elements.menu {
+    display:none;
+  }
+  .nav-left-elements.mobile {
+    font-size: 40px;
+}
+
+  .nav-left-block {
+    padding: 0px;
+}
+  .cpntainer-portfolio-block {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .portfolio-element {
+    max-width: 20%;
+  }
+
+@media (min-width: 1401px) {
+  .nav-left-elements.mobile {
+    display: none;
+  }
+}
